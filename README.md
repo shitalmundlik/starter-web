@@ -20,6 +20,8 @@ examples for Git training demos.
 
 ##How To Contribute
 
+Please fork this repository and then issue Pull Requesta for review.
+
 ###Copyright
 
 2014 Git.Training.
