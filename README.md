@@ -19,3 +19,7 @@ examples for Git training demos.
  file system.
 
 ##How To Contribute
+
+###Copyright
+
+2014 Git.Training.
